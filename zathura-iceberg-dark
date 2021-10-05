@@ -17,7 +17,7 @@ set index-fg                    "#d2d4de"
 set index-active-bg             "#d2d4de"
 set index-active-fg             "#161821"
 
-set inputbar-bg                 "#6b7089"
+set inputbar-bg                 "#1e2132"
 set inputbar-fg                 "#c6c8d1"
 
 set statusbar-bg                "#161821"
